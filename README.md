@@ -23,7 +23,7 @@
             
 </div><br>
           
-- 🌱Learning: <img align="center" alt="CSharp" height ="30" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/csharp/csharp-line.svg">
+- 🌱Learning: <img align="center" alt="CSharp" height ="30" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/nodejs/nodejs-original.svg">
           
 ##
         
