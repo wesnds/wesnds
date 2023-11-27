@@ -10,7 +10,7 @@
   </p>
   <div>
     <a href="https://instagram.com/wesnds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/weslleynds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%250077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+    <a href="https://www.linkedin.com/in/weslleynds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%250077B5?style=for-the-badge&color=blue&logo=linkedin&logoColor=white&labelColor=blue" target="_blank"></a><br>
   </div>
 </div>
 
