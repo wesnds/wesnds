@@ -58,7 +58,11 @@
 
 - 👨‍💻 **Software Developement Intern**\
   📆 02/2023 - Moment\
-  📍 **Sidia Institute of Science and Technology** - Manaus/AM, Brazil
+  📍 **Sidia Institute of Science and Technology (Samsung P&D Institute)** - Manaus/AM, Brazil
+  - Code, correct and document computer programs within the scope of the assigned project;
+  - Produce detailed documentation regarding the reference project;
+  - Unit tests;
+  
 
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Bootstrap%20-%20purple?logo=bootstrap" />
