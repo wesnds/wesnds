@@ -25,18 +25,21 @@
 
 ##
  
-<div style="display: inline_block" align='center'>
-  <img align="center" alt="GIT" height="50" width="60" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height ="50" width="60" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Tailwind" height ="50" width="60" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="JavaScipt" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height ="50" width="60" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Angular" height ="50" width="60" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="NodeJS" height ="50" width="60" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="MongoDB" height ="50" width="60" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="Jest" height ="50" width="60" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/jest/jest-plain.svg">
+<div style="display: flex" align='left'>
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Tailwind" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="JavaScipt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typescript" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="NodeJS" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Angular" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="React" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Express" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Jest" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="MongoDB" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="GIT" height="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/git/git-original.svg">
 </div>
 <br>
           
