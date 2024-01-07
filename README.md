@@ -25,7 +25,7 @@
 
 ##
  
-<div style="display: flex" align='left'>
+<div style="display: flex" align='center'>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/bootstrap/bootstrap-plain.svg">
