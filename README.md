@@ -43,7 +43,7 @@
 </div>
 <br>
           
-- 🌱Learning: <img align="center" alt="NestJS" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/nestjs/nestjs-plain.svg"> / <img align="center"
+- 🌱Learning: <img align="center" alt="NestJS" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/nestjs/nestjs-plain.svg">
           
 <details>
   <summary>📃 Resume</summary>
