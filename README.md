@@ -43,7 +43,7 @@
 </div>
 <br>
           
-- 🌱Learning: <img align="center" alt="NestJS" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/nestjs/nestjs-plain.svg"> / <img align="center" alt="GraphQL" height ="40" width="40" src="https://github.com/wesnds/devicon/blob/master/icons/graphql/graphql-plain.svg">
+- 🌱Learning: <img align="center" alt="NestJS" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/nestjs/nestjs-plain.svg"> / <img align="center"
           
 <details>
   <summary>📃 Resume</summary>
