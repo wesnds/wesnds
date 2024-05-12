@@ -6,7 +6,7 @@
 ```
 <div align='center'>
   <p>
-   Frontend developer deluded by painting buttons and always looking <br/> for new challenges to make me evolve as a professional.
+   A software developer deluded by painting buttons, create routes and always looking <br/> for new challenges to make me evolve as a professional.
   </p>
   <div>
     <a href="https://instagram.com/wesnds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
