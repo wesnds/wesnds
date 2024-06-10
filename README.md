@@ -26,52 +26,24 @@
 ##
  
 <div style="display: flex" align='center'>
+  <img align="center" alt="GIT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Tailwind" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Bootstrap" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Tailwind" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="JavaScipt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NodeJS" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Angular" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="React" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Express" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/express/express-original-wordmark.svg">
-  <img align="center" alt="Jest" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="MongoDB" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="GIT" height="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Typescript" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> 
+  <img align="center" alt="Python" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Angular" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="React" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Django" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="NodeJS" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Express" height ="40" width="40" fill="#fff" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Jest" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="MongoDB" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+ 
 </div>
 <br>
           
 - 🌱Learning: <img align="center" alt="NestJS" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/nestjs/nestjs-plain.svg">
-          
-<details>
-  <summary>📃 Resume</summary>
-
-## Education
-
-- 📖 **Analysis and Systems Development**\
-  📆 2021 - 2024\
-  📍 **Amazonas Estacio College** - Manaus, Brazil
-
-## Experience
-
-- 👨‍💻 **Software Developement Intern**\
-  📆 02/2023 - Moment\
-  📍 **Sidia Institute of Science and Technology (Samsung P&D Institute)** - Manaus/AM, Brazil
-  - Code, correct and document computer programs within the scope of the assigned project;
-  - Produce detailed documentation regarding the reference project;
-  - Unit tests;
-  
-
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Bootstrap%20-%20purple?logo=bootstrap" />
-<img align="right" src="https://img.shields.io/badge/%20Javascript%20-%20white?logo=javascript&logoColor=white&color=yellow" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Angular%20-%20red?logo=angular" />
-<img align="right" src="https://img.shields.io/badge/Jest%20-%20pink?logo=jest" />
-<img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
-<br/>
-
-</details>
 
