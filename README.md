@@ -38,12 +38,12 @@
   <img align="center" alt="React" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Django" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="NodeJS" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Express" height ="40" width="40" fill="#fff" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Express" height ="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
   <img align="center" alt="Jest" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="MongoDB" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
  
 </div>
 <br>
           
-- 🌱Learning: <img align="center" alt="NestJS" height ="40" width="40" src="https://raw.githubusercontent.com/wesnds/devicon/master/icons/nestjs/nestjs-plain.svg">
+- 🌱Learning: <img align="center" alt="Django Rest Framework" height ="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original-wordmark.svg">
 
