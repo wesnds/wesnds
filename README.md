@@ -4,6 +4,9 @@
 + Living in Manaus, Amazonas, Brazil.
 - 27 years old.
 ```
+
+###
+
 <div align='center'>
   <p>
    A software developer deluded by painting buttons, create routes and always looking <br/> for new challenges to make me evolve as a professional.
@@ -23,7 +26,13 @@
   </a> 
 </div>
 
-##
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wesnds/count.svg?"  />
+</div>
+
+###
  
 <div style="display: flex" align='center'>
   <img align="center" alt="GIT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -36,10 +45,11 @@
   <img align="center" alt="Python" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Angular" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="React" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Django" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="Next" height ="40" width="40" src="https://skillicons.dev/icons?i=express">
+  <img align="center" alt="Django" height ="40" width="40" src="https://skillicons.dev/icons?i=django">
   <img align="center" alt="Django Rest Framework" height ="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original-wordmark.svg">
   <img align="center" alt="NodeJS" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Express" height ="40" width="50" src="https://camo.githubusercontent.com/4f38bde15cc741aaec976cfa6e7006f82777f427419c58405ccdfc921310ab52/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373">
+  <img align="center" alt="Express" height ="40" width="50" src="https://skillicons.dev/icons?i=express">
   <img align="center" alt="Jest" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Docker" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="MongoDB" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
@@ -47,5 +57,6 @@
 </div>
 <br>
           
-- 🌱Learning: <img align="center" alt="Cypress" height ="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">
+- 🌱Learning: <img align="center" alt="Cypress" height ="80" width="80" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress-Light.svg">
 
+### ###
