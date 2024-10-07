@@ -43,7 +43,8 @@
   <img align="center" alt="Tailwind" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="JavaScipt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> 
-  <img align="center" alt="Python" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Python" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height ="40" width="40" src="https://skillicons.dev/icons?i=java">
   <img align="center" alt="Angular" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="React" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Django" height ="40" width="40" src="https://skillicons.dev/icons?i=django">
@@ -56,6 +57,6 @@
 </div>
 <br>
           
-- 🌱Learning: <img align="center" alt="Java" height ="80" width="80" src="https://skillicons.dev/icons?i=java">
+- 🌱Learning: <img align="center" alt="Java" height ="80" width="80" src="https://skillicons.dev/icons?i=nextjs">
 
 ### ###
