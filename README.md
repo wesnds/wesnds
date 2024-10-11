@@ -48,6 +48,7 @@
   <img align="center" alt="Angular" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="React" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Django" height ="40" width="40" src="https://skillicons.dev/icons?i=django">
+  <img align="center" alt="Spring Boot" height ="40" width="40" src="https://skillicons.dev/icons?i=spring">
   <img align="center" alt="NodeJS" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Jest" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Cypress" height ="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress-Light.svg">
