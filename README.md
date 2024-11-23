@@ -80,7 +80,7 @@
     </td>
   </tr>
   <tr>
-    <th>Ci/CD</th>
+    <th>DevOps</th>
     <td>
        <img align="center" alt="GIT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <img align="center" alt="Docker" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
