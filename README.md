@@ -1,37 +1,47 @@
-<h1 align='center'>Hi there 👋 Call me Wes!</h1>
+### ⚙️ GitHub Analytics
 
-```
-- 📍  Living in Manaus, Amazonas, Brazil.
-- 📚  System Analysis and Development Diploma; and Self-taught;
-- 27 years old.
-```
+<table style="width:100%">
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=wesnds&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesnds&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=wesnds&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-###
+---
 
-<div align='center'>
-      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wesnds" alt="wesnds" /></a>
-  <div>
-    <a href="https://instagram.com/wesnds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/weslleynds/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-  </div>
-</div>
+### 🏆 GitHub Profile Trophy
 
-<br>
-
-<div align='center'>
-  <a href="https://github.com/wesnds">
-    <img align="top left" height="160px" width="380px" src="https://github-readme-stats.vercel.app/api?username=wesnds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="top right" height="160px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesnds&layout=compact&langs_count=7&theme=dark"/>
-  </a> 
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/wesnds/count.svg?"  />
-</div>
-
-###
+<p align="center">
+  <a
+    href="https://github.com/wesnds/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=wesnds&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
 ## ⚡ Skills:
 
@@ -97,3 +107,14 @@
 - 🌱Learning: <img align="center" alt="Jenkins" height ="80" width="80" src="https://skillicons.dev/icons?i=jenkins">
 
 ###
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/wesnds/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
