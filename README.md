@@ -47,15 +47,12 @@
       <img align="center" alt="JavaScipt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
       <img align="center" alt="Java" height="40" width="40" src="https://skillicons.dev/icons?i=java">
+      <img align="center" alt="Python" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     </td>
   </tr>
   <tr>
     <th>FRONT-END</th>
     <td>
-      <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-      <img align="center" alt="Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
       <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
       <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     </td>
@@ -64,24 +61,24 @@
     <th>BACK-END</th>
     <td>
       <img align="center" alt="Spring Boot" height ="40" width="40" src="https://skillicons.dev/icons?i=spring">
-      <img align="center" alt="NestJS" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg">
+      <img  align="center" alt="Python" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />    
     </td>
   </tr>
   <tr>
     <th>TESTS</th>
     <td>
       <img align="center" alt="Jest" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-    <img align="center" alt="Cypress" height ="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress-Light.svg">
-    <img align="center" alt="JUnit" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/junit/junit-line-wordmark.svg">
+      <img align="center" alt="Cypress" height ="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress-Light.svg">
+      <img align="center" alt="JUnit" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/junit/junit-line-wordmark.svg">
     </td>
   </tr>
   <tr>
     <th>DB</th>
     <td>
-      <img align="center" alt="MongoDB" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"><img align="center" alt="Postgres" height ="40" width="40" src="https://skillicons.dev/icons?i=postgres">
+      <img align="center" alt="MongoDB" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+      <img align="center" alt="Postgres" height ="40" width="40" src="https://skillicons.dev/icons?i=postgres">
       <img align="center" alt="MySQL" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg">
       <img align="center" alt="Redis" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original.svg">
-      <img align="center" alt="GraphQL" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/graphql/graphql-plain.svg">
     </td>
   </tr>
   <tr>
@@ -89,17 +86,14 @@
     <td>
        <img align="center" alt="GIT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <img align="center" alt="Docker" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-      <img align="center" alt="Kubernetes" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg">
       <img align="center" alt="Github Actions" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-plain.svg">
-      <img align="center" alt="RabbitMQ" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rabbitmq/rabbitmq-original.svg">
-<!--   <img align="center" alt="Kafka" height ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original.svg"> -->
     </td>
   </tr>
 </table>
   
 <br>
           
-- 🌱Learning: <img align="center" alt="Jenkins" height ="80" width="80" src="https://skillicons.dev/icons?i=jenkins">
+- 🌱Learning: <img align="center" alt="RabbitMQ" height ="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
 
 ###
 
